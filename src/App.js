@@ -1,6 +1,6 @@
 import React from 'react';
 
-const users = ['Abhinash', 'Balaji', 'Mourya', 'Ebinezar'];
+const users = ['Abhinash', 'Balaji', 'Mourya', 'Dhoni'];
 
 function App() {
   return (
